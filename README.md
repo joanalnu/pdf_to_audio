@@ -15,6 +15,8 @@ We used the following version of each library:
 
 Furthermore, if you can type the file paths manually. However, we use the using 'import os' we can extract the folder path of the python file and use it to save the ouput. We also use this folder path to read the .pdf input, so the .pdf you want to use must be saved into the same folder as the 'main.py' file.
 
+When you run the code you'll only have to type the PDF file's name. You can type the name: 'example_name' or with the PDf ending 'example_name.pdf", the code will automatiaclly detect it and find the file. Moreover, if you want to convert a PDf file outside the folder (of the main.py file) you can type the full path to your PDF file starting with an '/' and the program will find the file in your computer: '/Users/my_macbook/Desktop/my_PDF_file' or '/Users/my_macbook/Desktop/my_PDF_file.pdf'.
+
 Regarding the output, this '.mp3' can be added to VLC and Apple Music apps, as well as for video editting and other applications.
 
 We do not take responsibility of the use of this tool.
