@@ -9,9 +9,7 @@ However, the modernisation of the libraries since the publication of that code b
 
 In order to use the program you will need to install some python libraries: gTTS and PyPDF2. You can do that by typing "pip install _libary_name_" in your terminal or shell.
 
-We used the following version of each library:
-  gTTS   2.5.0
-  PyPDF2 3.0.1
+We used the following version of each library: gTTS   2.5.0 and PyPDF2 3.0.1
 
 Furthermore, if you can type the file paths manually. However, by using 'import os' we can extract the folder path of the python file and use it to save the ouput. We also use this folder path to read the .pdf input, so the .pdf you want to use must be saved into the same folder as the 'main.py' file.
 
