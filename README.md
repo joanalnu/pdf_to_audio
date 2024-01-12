@@ -3,7 +3,7 @@ This is code that converts PDF files into audible .mp3 files.
 
 The main file format is the PDF and we read those all the time. My aim is to provide a tool that translates PDF reading into PDF listening. This is made by reading a PDF and converting it into an audio (.mp3) file using various libraries. This program makes reading (or listening) to documents more accessible for those who encounter difficulties in the reading and easier to those who read PDF all day and night. Also, alternating between reading and listening improves the eye health, as reading for long period on a screen is perjudicial for the human eye. However, we also warn that hearing with or without earpods can also damage you ear.
 
-this code is inspired on the code you can see here: https://github.com/TiffinTech/python-pdf-audo/blob/main/main.py, which is explained in this video: https://www.youtube.com/watch?v=LXsdt6RMNfY.
+this code is inspired on the code you can see here: https://github.com/TiffinTech/python-pdf-audo/blob/main/main.py, which is explained in this video: https://www.youtube.com/watch?v=LXsdt6RMNfY. Also the PDF 'sample.pdf' file is from https://www.africau.edu/images/default/sample.pdf.
 
 However, the modernisation of the libraries since the publication of that code brought me to the update of the code and rewriting. IN that meaning, the code is inspired in the above metioned sources, but I provided it with various updates.
 
